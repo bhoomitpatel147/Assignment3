@@ -1,0 +1,49 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+
+    
+    var content = new [] {
+        new {
+            title = "Alex",
+            type = "Part-Time Instructor",
+            body = "Has been teaching for 3 years",
+            tag = "javascript"
+        },
+        new {
+            title = "Andrew",
+            type = "Coordinator",
+            body = "Provided the lecture notes for this class",
+            tag = "metal"
+        },
+        new {
+            title = "Phil",
+            type = "Coordinator",
+            body = "Has the best shirts",
+            tag = "tall"
+        },
+        new {
+            title = "Darren",
+            type = "Full Time Professor",
+            body = "Very skilled at iOS development",
+            tag = "mac"
+        },
+        new {
+            title = "Nick",
+            type = "Full Time Professor",
+            body = "Knows more about php than anyone",
+            tag = "laravel"
+        }
+    };
+}
+
+@for(var i = 0; i < content.Length; i++)
+{
+    <div class="card">
+        <h3 class="card-header">@content[i].title</h3>
+        <p class="card-body">@content[i].body</p>
+        <div class="type">@content[i].type</div>
+        <div class="tag">@content[i].tag</div>
+    </div>
+}
