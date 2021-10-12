@@ -1,0 +1,60 @@
+@page
+@model HackingData.Pages.Hackers.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>HackData</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="HackData.ID" />
+            <div class="form-group">
+                <label asp-for="HackData.Name" class="control-label"></label>
+                <input asp-for="HackData.Name" class="form-control" />
+                <span asp-validation-for="HackData.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HackData.PowerAcquisitionDate" class="control-label"></label>
+                <input asp-for="HackData.PowerAcquisitionDate" class="form-control" />
+                <span asp-validation-for="HackData.PowerAcquisitionDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HackData.Address" class="control-label"></label>
+                <input asp-for="HackData.Address" class="form-control" />
+                <span asp-validation-for="HackData.Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HackData.BirthYear" class="control-label"></label>
+                <input asp-for="HackData.BirthYear" class="form-control" />
+                <span asp-validation-for="HackData.BirthYear" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HackData.Type" class="control-label"></label>
+                <input asp-for="HackData.Type" class="form-control" />
+                <span asp-validation-for="HackData.Type" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="HackData.Ethics" /> @Html.DisplayNameFor(model => model.HackData.Ethics)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
