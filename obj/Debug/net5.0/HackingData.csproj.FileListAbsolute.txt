@@ -1,0 +1,342 @@
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/appsettings.Development.json
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/appsettings.json
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/HackingData.deps.json
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/HackingData.runtimeconfig.json
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/HackingData.runtimeconfig.dev.json
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/HackingData.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/ref/HackingData.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/HackingData.pdb
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/HackingData.Views.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/HackingData.Views.pdb
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.csproj.AssemblyReference.cache
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.AssemblyInfoInputs.cache
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.AssemblyInfo.cs
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.csproj.CoreCompileInputs.cache
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.MvcApplicationPartsAssemblyInfo.cache
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.RazorAssemblyInfo.cache
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.RazorAssemblyInfo.cs
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/staticwebassets/HackingData.StaticWebAssets.Manifest.cache
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/staticwebassets/HackingData.StaticWebAssets.xml
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/scopedcss/bundle/HackingData.styles.css
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.TagHelpers.input.cache
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.TagHelpers.output.cache
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.RazorCoreGenerate.cache
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.RazorTargetAssemblyInfo.cache
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.RazorTargetAssemblyInfo.cs
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.Views.pdb
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/ref/HackingData.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.pdb
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.genruntimeconfig.cache
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/HackingData.csproj.CopyComplete
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Humanizer.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/System.Composition.Convention.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/Razor/Pages/Hackers/Create.cshtml.g.cs
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/Razor/Pages/Hackers/Delete.cshtml.g.cs
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/Razor/Pages/Hackers/Details.cshtml.g.cs
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/Razor/Pages/Hackers/Edit.cshtml.g.cs
+/Users/kevinmitnick/Desktop/DataFinalHacker Hacker/HackingData/obj/Debug/net5.0/Razor/Pages/Hackers/Index.cshtml.g.cs
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/appsettings.Development.json
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/appsettings.json
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/HackingData.deps.json
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/HackingData.runtimeconfig.json
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/HackingData.runtimeconfig.dev.json
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/HackingData.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/ref/HackingData.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/HackingData.pdb
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/HackingData.Views.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/HackingData.Views.pdb
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Humanizer.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.AspNetCore.Razor.Language.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.CodeAnalysis.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.CodeAnalysis.Razor.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.Data.SqlClient.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.Data.Sqlite.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.Extensions.DependencyModel.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.Identity.Client.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/dotnet-aspnet-codegenerator-design.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/SQLitePCLRaw.batteries_v2.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/SQLitePCLRaw.nativelibrary.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/SQLitePCLRaw.core.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/System.Composition.AttributedModel.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/System.Composition.Convention.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/System.Composition.Hosting.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/System.Composition.Runtime.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/System.Composition.TypedParts.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/System.Configuration.ConfigurationManager.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/System.Runtime.Caching.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win-arm/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win-arm64/lib/net5.0/dotnet-aspnet-codegenerator-design.exe
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win-arm/native/e_sqlite3.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Volumes/EDUCATION/HackingData/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.csproj.AssemblyReference.cache
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.AssemblyInfoInputs.cache
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.AssemblyInfo.cs
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.csproj.CoreCompileInputs.cache
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.RazorAssemblyInfo.cache
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.RazorAssemblyInfo.cs
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/staticwebassets/HackingData.StaticWebAssets.Manifest.cache
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/staticwebassets/HackingData.StaticWebAssets.xml
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/scopedcss/bundle/HackingData.styles.css
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.TagHelpers.input.cache
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.TagHelpers.output.cache
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.RazorCoreGenerate.cache
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/Razor/Pages/Hackers/Create.cshtml.g.cs
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/Razor/Pages/Hackers/Delete.cshtml.g.cs
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/Razor/Pages/Hackers/Details.cshtml.g.cs
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/Razor/Pages/Hackers/Edit.cshtml.g.cs
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/Razor/Pages/Hackers/Index.cshtml.g.cs
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.RazorTargetAssemblyInfo.cache
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.RazorTargetAssemblyInfo.cs
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.Views.pdb
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.csproj.CopyComplete
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.dll
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/ref/HackingData.dll
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.pdb
+/Volumes/EDUCATION/HackingData/obj/Debug/net5.0/HackingData.genruntimeconfig.cache
